@@ -1,19 +1,24 @@
 ---
-title: "Computer Vision Intern"
-description: "IIT Madras (India)"
-dateString: May 2019 - July 2019
+title: "Data Analyst Intern"
+description: "five OTA (Gujrat, India)"
+dateString: June 2019 - Dec 2019
 draft: false
 tags: []
 showToc: false
 weight: 304
 --- 
-### 🔗 [GitHub](https://github.com/arkalim/Tensorflow/tree/master/VLocNet)
-
 ## Description
-**Guide:** **Prof. Dr. Pratyush Kumar** (Assistant Professor, Dept. of Computer Science, IIT Madras)
 
-During my internship, I worked under the guidance of Prof. Pratyush Kumar (Assistant Professor, Department of Computer Science, IIT Madras) where I implemented a **Convolutional Neural Network** for **6-DoF Global Pose Regression** and **Odometry Estimation** from consecutive monocular images. The model estimates the camera pose from a sequence of monocular images from the camera. At each step, the model takes two consecutive frames as input and returns the global and relative pose between the two frames. It was built and trained from scratch in **Tensorflow** and it outperformed traditional feature-based visual localization algorithms, especially in texture-less regions. The neural network was later used by Prof. Pratyush for the localization of robots in GPS denied environments.
+- As a Data Analyst Intern I was working with the sales and marketing analytics team of an e-commerce retail company that sells mobile phone accessories.
 
-![](/experience/iit-madras/img1.jpeg)
-![](/experience/iit-madras/img2.jpeg)
-![](/experience/iit-madras/img3.jpeg)
+- My day to day work included gathering data from various sources using SQL and integrating it to one big table for data Visualizations by using Tableau and python libraries including Matplotlib, Seaborn.
+
+- Analyzed sales data to understand the performance of different products, campaigns and sales channels. which helped the company identify which products are most popular, which marketing campaigns are most effective, and which sales channels are most efficient.
+
+- Analyzed website and social media data to understand user behavior and engagement. This can help the company optimize their online presence and improve the user experience.
+
+- Developved and maintained reporting and visualization using Tableau to present data and insights to stakeholders in the company.
+
+- Continuously monitored and analyzed performance metrics to identify areas for improvement and track progress towards goals.
+
+

@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Yash Trivedi"
-    subtitle: Computer Vision Research Intern @ DeepLearning and Computer Vision Lab of Zayed University Dubai [(link)](https://www.zu.ac.ae/main/en/)
+    subtitle: Research Intern @ DeepLearning and Cyber Security Lab of Zayed University Dubai [(link)](https://www.zu.ac.ae/main/en/). Previously I worked as a Research Assistant under Dr. Luis Rueda [(link)](https://luisrueda.myweb.cs.uwindsor.ca/) at his Machine Learning and AI Lab where I worked on several industry projects related to finance and bioinformatics. I have also worked as Data Analytics Intern at an e commerce retail company where I was responsible of creating actionable insights using Tableau dashboards.
     imageUrl: "home/me.jpg"
     imageWidth: 300
     imageHeight: 300
@@ -66,14 +66,11 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
-    - name: "email"
-      url: "mailto:yashtrivedi532@gmail.com"
+    
     - name: "linkedin"
       url: "https://www.linkedin.com/in/yash-trivedi-898004160/"
     - name: "github"
       url: "https://github.com/yashcoder007"
-    #- name: "youtube"
-      #url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
       url: 
 
