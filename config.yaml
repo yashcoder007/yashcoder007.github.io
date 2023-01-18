@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Yash Trivedi"
-    subtitle: Computer Vision Research Intern @ DeepLearning and Computer Vision Lab of Zayed University Dubai [(link)](https://www.zu.ac.ae/main/en/)
+    subtitle: Computer Vision Research Intern @ DeepLearning and Computer Vision Lab of Zayed University Dubai [(link)](https://www.zu.ac.ae/main/en/). Previously I was working under Dr.Luis Rueda as a Research Assistant [(link)](https://scholar.google.ca/citations?user=2OPjLFkAAAAJ&hl=en) in his Machine Learning and AI lab [(link)](https://luisrueda.myweb.cs.uwindsor.ca/) where I was a part of various industry funded projects and projects funded by NSERC.
     imageUrl: "home/me.jpg"
     imageWidth: 300
     imageHeight: 300
@@ -67,15 +67,15 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:yashtrivedi532@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/yash-trivedi-898004160/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://yashtrivedi.netlify.app/"
+    #- name: "youtube"
+      #url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1S8STVjAd5KpgrrsSgGhABNrGCFY0larm/view"
+      url: "https://drive.google.com/file/d/1sM4DrdsSikSKmIfFJ9vw2KZZBt-tN6js/view"
 
   # text search
   fuseOpts:
