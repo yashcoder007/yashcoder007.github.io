@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Yash Trivedi"
-    subtitle: Research Intern @ DeepLearning and Cyber Security Lab of Zayed University Dubai [(link)](https://www.zu.ac.ae/main/en/). Previously I worked as a Research Assistant under Dr. Luis Rueda [(link)](https://luisrueda.myweb.cs.uwindsor.ca/) at his Machine Learning and AI Lab where I worked on several industry projects related to finance and bioinformatics. I have also worked as Data Analytics Intern at an e commerce retail company where I was responsible of creating actionable insights using Tableau dashboards.
+    subtitle: Research Intern @ DeepLearning and Cyber Security Lab of Zayed University Dubai [(link)](https://www.zu.ac.ae/main/en/). Previously I worked as a Research Assistant under Dr. Luis Rueda [(link)](https://luisrueda.myweb.cs.uwindsor.ca/) at his Machine Learning and AI Lab where I worked on several industry projects related to finance and bioinformatics. I have also worked as a Data Analytics Intern at an e commerce retail company where I was responsible of analyzing trends and patterns in the data and creating actionable insights from it using Tableau dashboards.
     imageUrl: "home/me.jpg"
     imageWidth: 300
     imageHeight: 300

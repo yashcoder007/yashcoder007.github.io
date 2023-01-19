@@ -1,15 +1,15 @@
 ---
-title: ""
-description: ""
-dateString: July 2019 - Dec 2019
+title: Youtube Data Analysis"
+description: "Anal"
+dateString: 
 draft: false
 tags: ["Drone", "Raspberry Pi", "Python", "Computer Vision", "Automation"]
 showToc: false
-weight: 207
+weight: 206
 cover:
-    image: "projects/openquad/"
+    image: "projects/openquad/architecture.jpeg"
 --- 
-### 🔗 [GitHub]()
+### 🔗 [GitHub](https://github.com/yashcoder007/Youtube_Data_Analysis.git)
 
 ## Description
 

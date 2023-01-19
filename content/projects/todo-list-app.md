@@ -1,13 +1,9 @@
 ---
-title: ""
-description: ""
-dateString: 
-draft: false
-tags: ["React", "Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"]
+title: "Autonomous Self Driving Car"
+description: "Predicting the steering turns of the car using convolutional neural networks(CNNS)"
 showToc: false
-weight: 204
+weight: 207
 cover:
-    image: "projects/todo-list-app/cover.jpg"
+    image: "projects/todo-list-app/demo.gif"
 --- 
-### 🔗 [View App]()
 ### 🔗 [GitHub]()

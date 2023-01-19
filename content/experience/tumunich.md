@@ -1,7 +1,7 @@
 ---
 title: "Research Assistant"
 description: "Machine Learning and AI Lab (University of Windsor))"
-dateString: Sep 2020 - Sep 2022
+dateString: Sep 2021 - Sep 2022
 draft: false
 tags: []
 showToc: false
