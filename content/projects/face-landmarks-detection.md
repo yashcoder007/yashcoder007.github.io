@@ -13,3 +13,6 @@ cover:
 
 ## Description
 
+This project implementation is all about predicting credit defaults, which is crucial for managing risk in consumer lending. By accurately predicting defaults, lenders can make informed decisions and improve the customer experience while also achieving sound business outcomes. While existing models exist, there is potential for developing more advanced models that surpass the performance of current ones.
+
+The model stacking approach is used to give the best results. Classical Neural Network is stacked with the LightGBM to get the best results. 
