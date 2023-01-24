@@ -1,5 +1,5 @@
 ---
-title: "Gratuate Assistant"
+title: "Graduate Assistant"
 description: "University of Windsor"
 dateString: Oct 2021 - Dec 2022
 draft: false
