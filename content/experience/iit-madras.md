@@ -9,16 +9,10 @@ weight: 304
 --- 
 ## Description
 
-- As a Data Analyst Intern I was working with the sales and marketing analytics team of an e-commerce retail company that sells mobile phone accessories.
-
-- My day to day work included gathering data from various sources using SQL and integrating it to one big table for data Visualizations by using Tableau and python libraries including Matplotlib, Seaborn.
-
-- Analyzed sales data to understand the performance of different products, campaigns and sales channels. which helped the company identify which products are most popular, which marketing campaigns are most effective, and which sales channels are most efficient.
-
-- Analyzed website and social media data to understand user behavior and engagement. This can help the company optimize their online presence and improve the user experience.
-
-- Developved and maintained reporting and visualization using Tableau to present data and insights to stakeholders in the company.
-
-- Continuously monitored and analyzed performance metrics to identify areas for improvement and track progress towards goals.
+1. Extracted data from various data sources by writing optimized SQL queries.
+2. Analyzed sales data by creating Tableau dashboards to track key performance indicators and understand the performance of different products, sales campaigns and channels for better decision-making.
+3. Implemented predictive modelling methods like linear regression and time series models for sales forecasting, reducing stockouts and increasing sales by 6%.
+4. Built an automated excel reporting system to increase efficiency and accuracy in data analysis.
+5. Created visualizations and reports to present findings and suggest business solutions to stakeholders.
 
 
