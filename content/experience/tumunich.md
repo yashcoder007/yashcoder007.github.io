@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Researcher"
-description: "Machine Learning and Pattern Recognition Lab (University of Windsor)"
+description: "Data Science and Pattern Recognition Lab (University of Windsor)"
 dateString: Sep 2020 - Sep 2022
 draft: false
 tags: []
@@ -10,10 +10,15 @@ weight: 302
 I was working as a Machine Learning Researcher at the lab where I was leading the research group  under the supervision of Dr. Luis Rueda [link](https://scholar.google.ca/citations?user=2OPjLFkAAAAJ&hl=en)
 
 ## Finance
-1. Built an unsupervised predictive model using K-means clustering and PCA for customer behaviour analysis and categorization to target customers with customized products, promotions and advertising, leading to a 10% increase in cross-sell revenue.
-2. Developed a time series-based product sales forecasting machine learning model using LightGBM and ARIMA, resulting in a 15% reduction in inventory costs.
-3. Designed an ensemble of LightGBM and feed-forward Neural Network to predict future customer orders with 85% accuracy, leading to customer-specific promotions and marketing.
-4. Designed an automated fraud detection system using XGBoost with PCA and Hyperopt (hyperparameter tuning) for reducing fraudulent customer transactions with an accuracy of 90%
+1. Developed an unsupervised ML model using K-means clustering and PCA for customer categorization to target
+customers with customized promotions and advertising, leading to a 4% increase in the superstore product’s
+cross-sell revenue.
+2. Developed a time series-based sales forecasting machine learning model for a chain of superstores using Facebook
+prophet and ARIMA, with statistical feature engineering resulting in a 10% reduction in inventory costs.
+3. Designed a stacked ML model using SVM, Random Forest and LightGBM for fraud credit card transactions
+classification with an accuracy of 96%.
+4. Designed automated Power BI dashboards for data analysis using SQL views and stored procedures reducing 80%
+time spent on manual configuration.
 
 ## Computer Vision 
 1. Developed a novel unsupervised automatic lung tumour detection pipeline by stacking together data mining techniques like spectral and hierarchical clustering, region adjacency graph, and multilevel thresholding with an average accuracy of 99.8% and an average sensitivity of 95.15%.
