@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Yash Trivedi"
-    subtitle: Currently, working as a Research Intern (Machine Learning) @ Advance AI and Analytics Lab of Zayed University Dubai. <br /> Previously I worked as a Machine Learning Researcher under Dr. Luis Rueda [(link)](https://luisrueda.myweb.cs.uwindsor.ca/) at his Data Science and Pattern Recognition Lab where I worked on several industry projects related to finance. <br />I have also worked as a Data Analyst at an e-commerce retail company where I was responsible for analyzing patterns in the data and extracting actionable insights using Tableau dashboards.
+    subtitle: Currently, working as a Research Intern (Machine Learning) @ Advance AI and Analytics Lab of Zayed University Dubai. <br /> Previously I worked as a Machine Learning Researcher under Dr. Luis Rueda [(link)](https://luisrueda.myweb.cs.uwindsor.ca/) at his Data Science and Pattern Recognition Lab where I worked on several industry projects related to finance. <br />I have also worked as a Data Analyst at an e-commerce retail company where I was responsible for analyzing patterns in the data and extracting actionable insights.
     imageUrl: "home/me.jpg"
     imageWidth: 300
     imageHeight: 300
